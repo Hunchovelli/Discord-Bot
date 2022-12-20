@@ -1,2 +1,1 @@
-#comment
-worker: python Son.py
+worker: python-3.10.9
