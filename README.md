@@ -1,0 +1,1 @@
+Developed a custom Discord bot for my server, leveraging the Discord API to automate the process of welcoming new member. Implemented event listeners to detect when a new user joined the server and automatically triggered personalised welcome messages. Utilised Python and libraries such as discord.py to handle the bot’s core functionalities and API requests.
